@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Matheus Andrade  
+#  Hi, I'm Matheus Andrade  
 
-🚀 Android Development Student | Kotlin Enthusiast | Based in Lisbon, Portugal  
+ Android Development Student | Kotlin Enthusiast | Based in Lisbon, Portugal  
 
 - 🌱 Currently learning **Kotlin & Android Development**  
 - 📱 Building mobile apps like [Tip Calculator](https://github.com/matheusndr/appgorjeta) and [BMI Calculator](https://github.com/matheusndr/calculadoraimc)  
