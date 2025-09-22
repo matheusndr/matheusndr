@@ -2,7 +2,7 @@
 
  Android Development Student | Kotlin Enthusiast | Based in Lisbon, Portugal  
 
-- 🌱 Currently learning **Kotlin & Android Development**  
+- 🧑🏿‍💻 Currently learning **Kotlin & Android Development**  
 - 📱 Building mobile apps like [Tip Calculator](https://github.com/matheusndr/appgorjeta) and [BMI Calculator](https://github.com/matheusndr/calculadoraimc)  
 - 💡 Interested in mobile development, clean architecture, and UI/UX design  
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/matheusandrade)  
